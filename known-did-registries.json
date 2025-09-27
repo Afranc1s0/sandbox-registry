@@ -1,9 +1,16 @@
 [
 	{
-	  "name": "Test Registry",
-	  "type": "test-type",
-	  "governanceUrl": "https://afranc1s0.github.io/sandbox-registry/",
-	  "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
+        "name": "Credential Engine Test Issuer Registry",
+        "type": "oidf",
+        "governanceUrl": "https://credentialengine.org/",
+        "trustAnchorEC": "https://test.issuerregistry.credentialengine.org/oidfed/.well-known/openid-federation"
+    },
+	{
+	    "name": "Test Registry",
+        "type": "test-type",
+        "governanceUrl": "https://afranc1s0.github.io/sandbox-registry/",
+        "url": "https://afranc1s0.github.io/sandbox-registry/registry.json"
 	}
 
 ]
+
