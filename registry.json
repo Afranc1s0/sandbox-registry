@@ -6,10 +6,12 @@
   "registry": {
       "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3": {
       "name": "Test Registry",
+      "location": "Somewhere", 
       "url": "https://www.woplli.com/"
     }
   }
 }
+
 
 
 
